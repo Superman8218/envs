@@ -1,0 +1,4 @@
+#!/usr/bin/zsh
+# This hook is sourced after this virtualenv is activated.
+
+export DJANGO_SETTINGS_MODULE="fh17.settings.local"
